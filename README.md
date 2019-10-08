@@ -19,3 +19,12 @@ rm data.tar.gz
 python vis_data.py
 ```
 
+## Citation
+```
+@article{ye2019ocmpc,
+  title={Object-centric Forward Modeling for Model Predictive Control},
+  author={Ye, Yufei and  Gandhi, Dhiraj and Gupta, Abhinav and Tulsiani, Shubham},
+  year={2019},
+  booktitle={CoRL}
+}
+```
